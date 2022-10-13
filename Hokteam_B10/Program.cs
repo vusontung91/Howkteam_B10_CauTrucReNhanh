@@ -128,19 +128,23 @@ namespace Hokteam_B10
             #endregion
 
             #region Kiểm tra số chẵn lẻ
-            int n1, n2;
-            bool bothEven1;
-            bool bothEven2;
-            Console.WriteLine("Nhap so thu nhat:");
-            n1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Nhap so thu hai:");
-            n2 = Convert.ToInt32(Console.ReadLine());
+            //int n1, n2;
+            //bool bothEven1;
+            //bool bothEven2;
+            //Console.WriteLine("Nhap so thu nhat:");
+            //n1 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Nhap so thu hai:");
+            //n2 = Convert.ToInt32(Console.ReadLine());
 
-            bothEven1 = (n1 % 2 == 0)? true : false;
-            bothEven2 = (n2 % 2 == 0) ? true : false;
-            Console.WriteLine(bothEven1 ? "so thu nhat la so chan" : "so thu nhat la so le");
-            Console.WriteLine(bothEven2 ? "so thu hai la so chan" : "so thu hai la so chan");
-            Console.ReadKey();
+            //bothEven1 = (n1 % 2 == 0)? true : false;
+            //bothEven2 = (n2 % 2 == 0) ? true : false;
+            //Console.WriteLine(bothEven1 ? "so thu nhat la so chan" : "so thu nhat la so le");
+            //Console.WriteLine(bothEven2 ? "so thu hai la so chan" : "so thu hai la so chan");
+            //Console.ReadKey();
+
+            #endregion
+
+            #region Xếp hạng Khá Giỏi
 
             #endregion
 
