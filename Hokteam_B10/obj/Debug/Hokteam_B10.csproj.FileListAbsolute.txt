@@ -1,0 +1,8 @@
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\bin\Debug\Hokteam_B10.exe.config
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\bin\Debug\Hokteam_B10.exe
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\bin\Debug\Hokteam_B10.pdb
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\obj\Debug\Hokteam_B10.csproj.AssemblyReference.cache
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\obj\Debug\Hokteam_B10.csproj.SuggestedBindingRedirects.cache
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\obj\Debug\Hokteam_B10.csproj.CoreCompileInputs.cache
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\obj\Debug\Hokteam_B10.exe
+D:\6. C#\Hokteam\Hokteam_B10\Hokteam_B10\obj\Debug\Hokteam_B10.pdb
