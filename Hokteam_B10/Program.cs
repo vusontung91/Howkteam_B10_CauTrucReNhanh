@@ -139,7 +139,7 @@ namespace Hokteam_B10
             bothEven1 = (n1 % 2 == 0)? true : false;
             bothEven2 = (n2 % 2 == 0) ? true : false;
             Console.WriteLine(bothEven1 ? "so thu nhat la so chan" : "so thu nhat la so le");
-            Console.WriteLine(bothEven2 ? "so thu hai la so chan" : "so thu hai la so le");
+            Console.WriteLine(bothEven2 ? "so thu hai la so chan" : "so thu hai la so chan");
             Console.ReadKey();
 
             #endregion
